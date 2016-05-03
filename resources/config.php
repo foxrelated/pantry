@@ -2,8 +2,8 @@
 
 $_CONF['db']['driver'] = 'mysqli';
 $_CONF['db']['host'] = 'localhost'; 
-$_CONF['db']['user'] = 'Hometest';
-$_CONF['db']['pass'] = 'whoknew?';
+$_CONF['db']['user'] = '';
+$_CONF['db']['pass'] = '';
 $_CONF['db']['name'] = 'pantry';
 $_CONF['db']['prefix'] = '';
 $_CONF['db']['port'] = '';
